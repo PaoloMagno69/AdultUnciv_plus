@@ -5,14 +5,14 @@
 		"imageScale": 1.7,
     "unitType": "Civilian",
     "uniqueTo": "Nymphomanic Empire",
-    "cost": 600,
+    "cost": 1,
+	"requiredTech": "Pornografia",
     "movement": 2,
     "strength": 0,
     "actions": [],
     "uniques": [
       "Unbuildable by other Civilizations",
-      "Only available <in cities with a [Grande Tempio del Piacere di Ele]>",
-	  "Limited to [1] per Civilization",
+      "Limited to [1] per Civilization",
       "When this unit is present, player gains +7 Happiness per turn",
 	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
       "Can be captured (like a Settler)"
@@ -22,13 +22,13 @@
 		"name": "Sacerdotessa Nora", /* Sacerdotessa Nora, crea 7 templi x fede */ /* Immagine DA IMPOSTARE */
 		"unitType": "Civilian",
 		  "uniqueTo": "Nymphomanic Empire",
-    "cost": 600,
+    "cost": 1,
+	"requiredTech": "Pornografia",
     "movement": 2,
     "strength": 0,
 		"uniques": [
 			 "Limited to [1] per Civilization",
-			 "Only available <in cities with a [Grande Tempio della Fica di Ele]>",
-             "Can instantly construct a [Tempio della Fica] improvement <[7] times> <after which this unit is consumed>",
+			 "Can instantly construct a [Tempio della Fica] improvement <[7] times> <after which this unit is consumed>",
 			 "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
       "Can be captured (like a Settler)"
        ]
@@ -40,13 +40,13 @@
 		"movement": 2,
 		"strength": 10,
 	     "rangedStrength": 10,
-		"cost": 500,
+		"cost": 1,
+	"requiredTech": "Pornografia",
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
-			"Only available <in cities with a [Grande Tempio del Culo di Ele]>",
 			"[+100]% XP gained from combat",
 			"Heals [25] damage if it kills a unit",
 			"[+50]% Strength <for every [Era number]>",
