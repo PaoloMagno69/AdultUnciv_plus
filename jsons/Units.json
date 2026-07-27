@@ -18,6 +18,22 @@
       "Can be captured (like a Settler)"
        ]
        },
+	{
+		"name": "Sacerdotessa Nora", /* Immagine DA IMPOSTARE */
+		"unitType": "Civilian",
+		  "uniqueTo": "Nymphomanic Empire",
+    "cost": 600,
+    "movement": 2,
+    "strength": 0,
+		"uniques": [
+			 "Limited to [1] per Civilization",
+			 "Only available <in cities with a [Grande Tempio della Fica]>",
+             "Can instantly construct a [Tempio della Fica] improvement <[7] times> <after which this unit is consumed>",
+			 "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"
+       ]
+		]
+	    },
 /* Sarcedotessa Nora, come Jana ma crea tepli della Fica, serve Grande Tempio della Fica */
 /* Ele Amazzone, guerriera unica e forte, serve Grande Tempio del Culo*/
 /* Pompinare, fanno qualcosa ad avversari o città stato (da capire come) e si consumano, serve Grande Tempio della Fellatio*/
