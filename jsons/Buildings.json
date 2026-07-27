@@ -1,5 +1,5 @@
 [
-	 /* { 
+	 { 
 		"name": "Grande Tempio del Piacere di Ele",
         "uniqueTo": "Nymphomanic Empire",
         "isWonder": true,
@@ -7,7 +7,6 @@
         "cost": 1,
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
-            "Creates [1] [Eleonora di Troia] units",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         },
@@ -32,7 +31,6 @@
         "cost": 1,
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
-            "Creates [1] [Sacerdotessa Nora] units",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         },
@@ -44,7 +42,6 @@
         "cost": 1,
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
-            "Creates [1] [Ele Amazzone] units",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         }, */
