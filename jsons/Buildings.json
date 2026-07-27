@@ -34,7 +34,6 @@
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
             "Free [Sacerdotessa Nora] appears",
-            "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         },
@@ -47,7 +46,6 @@
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
             "Free [Ele Amazzone] appears",
-            "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         },
