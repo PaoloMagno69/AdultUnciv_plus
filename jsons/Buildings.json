@@ -1,9 +1,9 @@
 [
 	  { 
-		"name": "Tempio del Piacere",
+		"name": "Grande Tempio del Piacere di Ele",
         "uniqueTo": "Nymphomanic Empire",
         "isWonder": true,
-        "requiredTech": "Agriculture",
+        "requiredTech": "Pornografia",
         "cost": 1,
         "science": 1,
         "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
@@ -25,6 +25,32 @@
 		"uniqueTo": "Nymphomanic Empire",
 		"uniques": ["Indicates the capital city"]
 	},
+	  { 
+		"name": "Grande Tempio della Fica di Ele",
+        "uniqueTo": "Nymphomanic Empire",
+        "isWonder": true,
+        "requiredTech": "Pornografia",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Free [Sacerdotessa Nora] appears",
+            "Gain a free [Monument] [in this city]",
+            "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
+        },
+	  { 
+		"name": "Grande Tempio del Culo di Ele",
+        "uniqueTo": "Nymphomanic Empire",
+        "isWonder": true,
+        "requiredTech": "Pornografia",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Free [Ele Amazzone] appears",
+            "Gain a free [Monument] [in this city]",
+            "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
+        },
 	{
 		"name": "Studio di film per adulti",
 		"production": 2,
