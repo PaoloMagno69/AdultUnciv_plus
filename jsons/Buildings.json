@@ -1,5 +1,5 @@
 [
-	  { 
+	 /* { 
 		"name": "Grande Tempio del Piacere di Ele",
         "uniqueTo": "Nymphomanic Empire",
         "isWonder": true,
@@ -47,7 +47,7 @@
             "Creates [1] [Ele Amazzone] units",
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
-        },
+        }, */
 	{
 		"name": "Studio di film per adulti",
 		"production": 2,
