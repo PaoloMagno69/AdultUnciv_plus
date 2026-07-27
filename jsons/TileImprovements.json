@@ -1,1 +1,10 @@
-
+[
+  // Great Person improvements
+	{
+		"name": "Tempio della Fica",
+		"imageScale": 0.5,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 6,
+		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	]
