@@ -5,13 +5,14 @@
 		"imageScale": 1.7,
     "unitType": "Civilian",
     "uniqueTo": "Nymphomanic Empire",
-    "cost": 60,
+    "cost": 600,
     "movement": 2,
     "strength": 0,
     "actions": [],
     "uniques": [
       "Unbuildable by other Civilizations",
       "Only available <in cities with a [Tempio del Piacere]>",
+	  "Limited to [1] per Civilization",
       "When this unit is present, player gains +7 Happiness per turn",
 	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
       "Can be captured (like a Settler)"
