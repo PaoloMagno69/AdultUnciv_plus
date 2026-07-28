@@ -2,7 +2,7 @@
 /* Unità plus */
 	{
     "name": "Eleonora di Troia", /* Eleonora di Troia, dona piacere */ /* Immagine DA IMPOSTARE */
-		"imageScale": 0.4,
+		"imageScale": 1.2,
     "unitType": "Civilian",
     "uniqueTo": "Nymphomanic Empire",
     "cost": 1,
@@ -20,9 +20,10 @@
        },
 	{
 		"name": "Sacerdotessa Nora", /* Sacerdotessa Nora, crea 7 templi x fede */ /* Immagine DA IMPOSTARE */
+		"imageScale": 1.3,
 		"unitType": "Civilian",
 		  "uniqueTo": "Nymphomanic Empire",
-    "cost": 1,
+    "cost": 1.2,
 	"requiredTech": "Pornografia",
     "movement": 2,
     "strength": 0,
@@ -35,7 +36,7 @@
 	    },
 {
 		"name": "Ele Amazzone", /* Immagine Roal DA IMPOSTARE */
-		"imageScale": 0.8,
+		"imageScale": 2.5,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
@@ -68,7 +69,7 @@
 	},	
    {
 		"name": "Pompinare",
-		   "imageScale": 1.3,
+		   "imageScale": 1,
 		"unitType": "Civilian",
 		"cost": 10,
 		"requiredTech": "Pornografia",
@@ -80,7 +81,7 @@
 	   },
  {
 		"name": "Culetto d'oro",
-		   "imageScale": 0.1,
+		   "imageScale": 1,
 		"unitType": "Civilian",
 		"cost": 10,
 		"requiredTech": "Pornografia",
