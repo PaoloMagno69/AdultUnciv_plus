@@ -2,7 +2,7 @@
 /* Unità plus */
 	{
     "name": "Eleonora di Troia", /* Eleonora di Troia, dona piacere */ /* Immagine DA IMPOSTARE */
-		"imageScale": 1.7,
+		"imageScale": 0.8,
     "unitType": "Civilian",
     "uniqueTo": "Nymphomanic Empire",
     "cost": 1,
@@ -35,7 +35,7 @@
 	    },
 {
 		"name": "Ele Amazzone", /* Immagine Roal DA IMPOSTARE */
-		"imageScale": 1.5,
+		"imageScale": 0.8,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
@@ -80,7 +80,7 @@
 	   },
  {
 		"name": "Culetto d'oro",
-		   "imageScale": 1,
+		   "imageScale": 0.3,
 		"unitType": "Civilian",
 		"cost": 10,
 		"requiredTech": "Pornografia",
