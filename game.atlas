@@ -172,3 +172,65 @@ UnitIcons/Nympho Worker
   orig: 128, 128
   offset: 0, 0
   index: -1
+
+game2.png
+size: 384,384
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TileSets/AbsoluteUnits/Units/Ele Amazzone
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Schiave sessuali
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Culetto d'oro
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Eleonora di Troia
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gran puttana
+  rotate: false
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sacerdotessa Nora
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pompinare
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mignotte
+  rotate: false
+  xy: 128, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
