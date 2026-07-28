@@ -2,7 +2,7 @@
 /* Unità plus */
 	{
     "name": "Eleonora di Troia", /* Eleonora di Troia, dona piacere */ /* Immagine DA IMPOSTARE */
-		"imageScale": 0.8,
+		"imageScale": 0.4,
     "unitType": "Civilian",
     "uniqueTo": "Nymphomanic Empire",
     "cost": 1,
@@ -68,7 +68,7 @@
 	},	
    {
 		"name": "Pompinare",
-		   "imageScale": 1,
+		   "imageScale": 1.3,
 		"unitType": "Civilian",
 		"cost": 10,
 		"requiredTech": "Pornografia",
@@ -80,7 +80,7 @@
 	   },
  {
 		"name": "Culetto d'oro",
-		   "imageScale": 0.3,
+		   "imageScale": 0.1,
 		"unitType": "Civilian",
 		"cost": 10,
 		"requiredTech": "Pornografia",
